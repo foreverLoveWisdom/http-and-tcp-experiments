@@ -1,34 +1,11 @@
-# If you prefer the allow list template instead of the deny list, see community template:
+# HTTP Experiment
 
-# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+This repository contains practical Golang exercises focused on essential networking concepts, including a basic TCP server, TCP client, and simple HTTP server. Built with simplicity in mind, it aims to provide hands-on experience without unnecessary theoretical complexity.
 
-#
+- [ ] Basic TCP Server
+- [ ] Basic TCP Client
+- [ ] Simple HTTP Server
 
-# Binaries for programs and plugins
+## Purpose
 
-_.exe
-_.exe~
-_.dll
-_.so
-\*.dylib
-
-# Test binary, built with `go test -c`
-
-\*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-
-\*.out
-
-# Dependency directories (remove the comment below to include it)
-
-# vendor/
-
-# Go workspace file
-
-go.work
-go.work.sum
-
-# env file
-
-.env
+The goal of this project is to enhance your understanding of networking in Golang through direct application and experimentation. By engaging with these exercises, you will gain practical skills that are essential for working with networked applications.
